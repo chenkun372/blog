@@ -9,7 +9,7 @@
 
 ## 关于作者 / About
 
-* gmail： [@chenkun372](chenkun372@gmail.com)
+* gmail：chenkun372@gmail.com
 * GitHub： [@chenkun372](https://github.com/chenkun372)
 * [更多信息... / Contact Me...](https://github.com/chenkun372/blog/issues/9)
 
