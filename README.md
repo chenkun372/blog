@@ -4,6 +4,14 @@
 
 [![立即阅读](https://cloud.githubusercontent.com/assets/1231359/13027636/6fdae1a6-d291-11e5-9126-68bd3d2ed778.png)](https://github.com/chenkun372/blog/issues)
 
+
+<h4 align="center">访客数 :eyes:</h4>
+
+<p align="center">
+<img  src="https://profile-counter.glitch.me/Leon406_SubCrawler/count.svg" alt="Sub :: Visitor's Count" />
+ <img width=0 height=0 src="https://profile-counter.glitch.me/Leon406/count.svg" alt="Leon406:: Visitor's Count" />
+</p>
+
 ## 关于作者 / About
 
 * gmail： [@chenkun372](chenkun372@gmail.com)
@@ -27,3 +35,4 @@
 * 明确署名，即至少注明 `作者：chenkun372` 字样以及文章的原始链接，且不得使用 `rel="nofollow"` 标记。
 
 如需商业合作，[请直接联系作者](https://github.com/chenkun372/blog/issues/9)。
+
